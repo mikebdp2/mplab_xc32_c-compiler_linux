@@ -1,0 +1,8 @@
+fb1bd5393088e98bd80190351a88a0ab8eec1a0a462754e5ffb8f39b7888cdb2  ./join_parts.sh
+6897958b694272bf022567fd4cd6fe47ca7353997fcc1300d0d4c0b4aaffaa0a  ./xc32-v4.09-full-install-linux-installer.run
+7207464fa39e6ded31deceb9b7b2632f1e8dab2e8420f39adb7dcbc9f6786fbc  ./xc32-v4.09-full-install-linux-installer.run_part01
+9d36dd6a025133058c0fb84c53a1aa048665e25e9333bc1b200b4a6ca2a1ff6d  ./xc32-v4.09-full-install-linux-installer.run_part02
+07319493850262656a351fb1f77387d04dad2fdd9324a4d123cc9aadac0afc1d  ./xc32-v4.09-full-install-linux-installer.run_part03
+c5d3849b4cd1646f49ab2e6d31bec4b1ec9e742a4e561a2a973376dd2f14125e  ./xc32-v4.09-full-install-linux-installer.run_part04
+7630d489609fec2a74f9d3a6fe2cdd9363fb7b30e4016a3d013c6cea035c16d0  ./xc32-v4.09-full-install-linux-installer.run_part05
+290b4d06feb06adc84c656dd200005f4549b7ac5444792d80f088e10bd4b65f0  ./xc32-v4.09-full-install-linux-installer.run_part06
