@@ -1,0 +1,8 @@
+5ffa07d5010f59648cb5392153c8732b6576b520845af6ceff1a2018c3324d12  ./32-Bit-Language-Tools-Libraries.pdf
+f3530e6a181b65a72b50380f5c7c3a008c29b16ef865a19b23b069d74c639aec  ./MPLAB-ASMLINK32-User-Guide.pdf
+074e0977baecbfdff8c414e63b8fc7603a7db99e33bd7a5fa154defecddaf919  ./MPLAB-XC32-Compiler-User-Guide-PIC32C-DS50002895.pdf
+61a0382f3753b3dc1acd8e222581ac83fe580e95f62642cfb1d2da2a32003305  ./MPLAB-XC32-Compiler-User-Guide-PIC32M-DS50002799.pdf
+4919dca510fa0589d802984aeefffc5561c8ca1a118c17a874c5f4a073553543  ./MPLAB_XC32_PIC_Embedded_Engineers_Code_Examples.zip
+cae62f74fc8dd8ca67abedb95fd0cc067a370e5049d9611b72e2450aee8fa2d0  ./MPLAB-XC32-Users-Guide-for-Embedded-Engineers-DS50002509B.pdf
+dcd36c5b47754fa4b8108c57a3cf8ea561432f6a1abe42f478d3eb798544e7c0  ./xc32-v409-release-notes.html
+3b7664439b8bf2547dcaef5571809c9be0a3457ee048466c7e996a8ff2fdae4b  ./xc32-v435-release-notes.html
